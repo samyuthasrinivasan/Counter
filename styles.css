@@ -1,0 +1,25 @@
+h1 {
+    color: black;
+    font-size: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+body {
+    text-align: center;
+    font-size: large;
+}
+
+ul > li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.nav_center {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 10px 500px 10px 500px;
+}
